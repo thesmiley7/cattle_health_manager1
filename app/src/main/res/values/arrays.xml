@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="categories">
+        <item>Bull</item>
+        <item>Oxen</item>
+        <item>Heafer</item>
+        <item>Calf</item>
+        <item>Cow</item>
+        <item>Tollie</item>
+
+    </string-array>
+
+    <string-array name="method_ob">
+    <item>Bought</item>
+    <item>Born</item>
+
+</string-array>
+</resources>
